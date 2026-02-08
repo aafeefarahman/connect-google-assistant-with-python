@@ -1,6 +1,5 @@
 # Connect-google-assistant-with-python🐍
 ---
-                                                                   # Connect-Google-Assistant-with-Python
 
 This is a simple Python project that takes a user question from the terminal, searches it on Google, and prints the direct answer using web scraping.
 
