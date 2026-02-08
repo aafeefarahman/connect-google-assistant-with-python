@@ -89,7 +89,7 @@ soup.find(class_='Z0LcW XcVN5d')
 
 ---
 
-## ✅ Key learning points (quick recap)
+## ✅ Key learning points 
 
 * How to send HTTP requests in Python
 * How to parse HTML using BeautifulSoup
