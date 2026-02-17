@@ -23,7 +23,7 @@ It uses **requests** and **BeautifulSoup** to fetch and extract the result.
 
 ---
 
-## Requirements📦
+## Requirements
 
 Make sure Python is installed.
 
@@ -35,7 +35,7 @@ pip install requests beautifulsoup4
 
 ---
 
-## How to run the program▶️ 
+## How to run the program
 
 1. Save the code in a file
    (example: `assistant.py`)
@@ -50,7 +50,7 @@ python assistant.py
 
 ---
 
-## Example💻 
+## Example 
 
 ```text
 Enter your query: capital of india
@@ -67,7 +67,7 @@ Press `y` to continue searching, or any other key to exit.
 
 ---
 
-## Code overview📂
+## Code overview
 
 * `requests` → used to fetch the Google search page
 * `BeautifulSoup` → used to parse the HTML
@@ -79,7 +79,7 @@ soup.find(class_='Z0LcW XcVN5d')
 
 ---
 
-##  Important note⚠️
+##  Important note
 
 * This project depends on Google’s page structure.
 * If Google changes its HTML classes, the program may stop working.
@@ -87,7 +87,7 @@ soup.find(class_='Z0LcW XcVN5d')
 
 ---
 
-## Key learning points✅ 
+## Key learning points
 
 * How to send HTTP requests in Python
 * How to parse HTML using BeautifulSoup
@@ -96,7 +96,7 @@ soup.find(class_='Z0LcW XcVN5d')
 
 ---
 
-## Possible improvements🚀
+## Possible improvements
 
 * Add voice input and voice output
 * Add better error handling for empty results
